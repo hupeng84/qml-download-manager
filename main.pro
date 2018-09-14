@@ -1,7 +1,7 @@
 
 QT       += network qml quick core
 
-TARGET = qtdownloadmanager
+TARGET = qmldownloadmanager
 CONFIG   += console
 
 TEMPLATE = app
